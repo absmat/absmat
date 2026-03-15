@@ -1,6 +1,8 @@
 {
   "name": "AbsMat",
   "short_name": "AbsMat",
+  "id": "/absmat/index.html",
+  "start_url": "index.html",
   "description": "Maisterintutkielman tiivistelmien ja kypsyysnäytteen kieliohjeet",
   "start_url": "index.html",
   "display": "standalone",
