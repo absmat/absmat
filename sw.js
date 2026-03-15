@@ -1,4 +1,4 @@
-const CACHE_NAME = 'absmat-cache-v10';
+const CACHE_NAME = 'absmat-cache-v11';
 
 const ASSETS = [
   'index.html',
